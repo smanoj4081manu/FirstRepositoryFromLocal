@@ -14,4 +14,5 @@ Cheers!! for the research.
 Created a new branch named 'ManojBranch'. Checking how it works.
 Updating the file from the command prompt using the command vim FirstFile.txt.
 After update press Esc to escape edit mode of the file and input :x to submit the changes to the file.
+This is the next edit from the command line. Will press again esc and then input the text :x and submit the changes again. Yayy!! i am mastering this. 
 
