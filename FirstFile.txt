@@ -10,3 +10,5 @@ Not that it is proved that click 'Sync' button, changes committed on GitHub desk
 
 When there is only one branch, there is no significance of 'Pull Request' as the 'Create Pull Request' button is disabled and a message stating "The source and destination branches are the same." is displayed. So sync is the only option to update the changes in to server when there is only one branch.
 Cheers!! for the research.
+
+Created a new branch named 'ManojBranch'. Checking how it works.
