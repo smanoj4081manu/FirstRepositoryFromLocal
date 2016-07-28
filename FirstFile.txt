@@ -4,3 +4,4 @@ I have created a file in the local and added it to repository.
 Edited the file. Adding new lines of information in the existing file.
 
 Again editing the file. After committing the changes in to master from github desktop, i didnt observe this updated in the github web portal. Seems after synch only it updated. checking again.
+After waiting for 5 mins, nothing happened. So, pressing Synch in Github Desktop and will check if updated in GitHub web portal.
