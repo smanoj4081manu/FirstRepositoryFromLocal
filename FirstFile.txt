@@ -17,3 +17,5 @@ After update press Esc to escape edit mode of the file and input :x to submit th
 This is the next edit from the command line. Will press again esc and then input the text :x and submit the changes again. Yayy!! i am mastering this. 
 
 Update same file from Manoj-Branch-1 & 2 and verify Pull Request issues. This is from Manoj-Branch-2
+
+Opened in Manoj-Branch-2
