@@ -18,4 +18,4 @@ This is the next edit from the command line. Will press again esc and then input
 
 Update same file from Manoj-Branch-1 & 2 and verify Pull Request issues. This is from Manoj-Branch-2
 
-Opened in Manoj-Branch-2
+Initiallty it was "Opened in Manoj-Branch-1". Later tried to update it to "Opened in Manoj-Branch-2", but it resulted in conflict. Now resolved the conflict from github desktop.
