@@ -25,3 +25,5 @@ Initially it was "Again the same conflict test. This is Branch 1". Later tried t
 Checking the options in the Confirm Pull Request Merge dropdown in the web portal.
 Checking what exactly happened on selecting squash and merge option. Now will select the other option of merge.
 
+Some error happened earlier. Checking again.
+
